@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elonisme
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently taking part in the postgraduate entrance exams
+- 🌱 I’m a preparatory graduate student
 - 💞️ blog: https://elonli.top/
 - 📫 email: elonisme@163.com
 
