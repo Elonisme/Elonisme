@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Elonisme
-- 👀 I’m interested in machine learning
-- 🌱 I’m a preparatory graduate student
+- 👋 Hi, I’m Elon Li
+- 🌱 I'm a graduate student at BESTI and currently working on the deeping learning.
 - 💞️ blog: https://elonli.top/
 - 📫 email: elonisme@163.com
 
