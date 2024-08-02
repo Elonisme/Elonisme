@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elon Li
 - 🌱 I'm a graduate student at BESTI and currently working on the deeping learning.
 - 🔭 I am currently working at CyberSecurity and Privacy Labs.
-- 💞️ blog: https://elonisme.github.io/
+- 💞️ blog: https://elonblog.pages.dev/
 - 📫 email: elonisme@keemail.me
 
 <!---
