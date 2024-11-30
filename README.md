@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elon Li
-- 🌱 I'm a graduate student at BESTI and currently working on the deeping learning.
+- 🌱 I'm a graduate student at Beijing Electronic Science and Technology Institute(BESTI) and currently working on the deeping learning.
 - 🔭 I am currently working at CyberSecurity and Privacy Labs in BESTI.
 - 💞️ blog: https://elonblog.pages.dev/
 
